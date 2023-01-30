@@ -1,3 +1,4 @@
 apiget/.env
 apiget/target
 .vscode
+.vscode/settings.json
